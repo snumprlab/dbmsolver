@@ -1,6 +1,6 @@
 # DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation
 
-[![arXiv]([https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg])(https://arxiv.org/abs/2605.05889))](#)
+[![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2605.05889-B31B1B.svg)](https://arxiv.org/abs/2605.05889)
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)](#)
 
 > **[DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](#)**  
