@@ -1,6 +1,6 @@
 # DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](#)
+[![arXiv]([https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg](https://arxiv.org/abs/2605.05889))](#)
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)](#)
 
 > **[DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](#)**  
@@ -25,6 +25,7 @@ If you find our work useful for your research, please consider citing:
   title={DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation},
   author={Venugopal, Sankarshana and Mostafavi, Mohammad and Choi, Jonghyun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
+  year={2026},
+  url={https://arxiv.org/abs/2605.05889}
 }
 ```
