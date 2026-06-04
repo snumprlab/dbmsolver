@@ -106,11 +106,13 @@ bash scripts/evaluate.sh $DATASET_NAME $NFE $SAMPLER ($AUX)
 If you find our work useful for your research, please consider citing:
 
 ```
-@inproceedings{venugopal2026dbmsolver,
-  title={DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation},
-  author={Venugopal, Sankarshana and Mostafavi, Mohammad and Choi, Jonghyun},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026},
-  url={https://arxiv.org/abs/2605.05889}
+@InProceedings{Venugopal_2026_CVPR,
+    author    = {Venugopal, Sankarshana and Mostafavi, Mohammad and Choi, Jonghyun},
+    title     = {DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {36062-36071},
+    url       = {https://arxiv.org/abs/2605.05889}
 }
 ```
