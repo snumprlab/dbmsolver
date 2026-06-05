@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2605.05889-B31B1B.svg)](https://arxiv.org/abs/2605.05889)
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)](#)
 
-> **[DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](https://arxiv.org/abs/2605.05889)**  
+> **[DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2026/html/Venugopal_DBMSolver_A_Training-free_Diffusion_Bridge_Sampler_for_High-Quality_Image-to-Image_Translation_CVPR_2026_paper.html)**  
 > [Sankarshana Venugopal](mailto:sankarshana.v@gmail.com), [Mohammad Mostafavi](mailto:mostafavi.isfahani@gmail.com), [Jonghyun Choi](mailto:jonghyunchoi@snu.ac.kr)  
 > Seoul National University  
 
