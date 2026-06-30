@@ -41,7 +41,7 @@ docker run -v /Path/To/Git/Repo:/root/code/ \
 ```
 This creates a docker container named "dbmsolver_container".
 
-### Execute the DBMSolver Container
+### Executing the DBMSolver Container
 Execute the container using the following command:
 ```bash
 docker exec -it dbmsolver_container bash
@@ -63,7 +63,7 @@ bash /root/code/assets/datasets/download_extract_DIODE.sh
 
 After downloading, the DIODE dataset requires preprocessing by running `python preprocess_depth.py`.
 
-### Pre-trained DBM checkpoints
+### Pre-trained DBM Checkpoints for Evaluation
 
 Please put the downloaded checkpoints under `assets/ckpts/`.
 
