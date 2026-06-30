@@ -31,7 +31,7 @@ cd /Path/to/GitRepository/Containing/the/DBMSolver/Dockerfile
 docker build -t dbmsolver_image .
 ```
 
-This creates a docker image named "dbmsolver_image".
+This creates a docker image named "dbmsolver_image", which we will use to run our inference (and/or training) experiments.
 
 ### Creating the Docker Container
 ```bash
