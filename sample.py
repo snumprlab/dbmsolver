@@ -27,7 +27,6 @@ from pathlib import Path
 
 def main():
     args = create_argparser().parse_args()
-    # args.use_fp16 = False
 
     workdir = os.path.join("workdir", os.path.basename(args.model_path)[:-3])
 
