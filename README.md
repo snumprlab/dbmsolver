@@ -15,14 +15,14 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
 
 This repo provides the inference code for our training-free sampler, DBMSolver, on the [DIODE](https://diode-dataset.org/) (256x256) dataset.
 
-The code is based on [DDBM](https://arxiv.org/abs/2309.16948) and [DBIM](https://arxiv.org/abs/2405.15885v6), the current state-of-the-art training-free sampler for Diffusion Bridge Models (DBMs).
+The code is based on [DDBM](https://arxiv.org/abs/2309.16948) and [DBIM](https://arxiv.org/abs/2405.15885v6), the current state-of-the-art training-free samplers for Diffusion Bridge Models (DBMs).
 
 ### Download the Repo
 
 Download the git repo to your preferred destination.
 
 ### Building Docker Image
-On the terminal, enter the folder where you saved the Git repo via the 'cd' command.
+On the terminal, enter the folder where you saved the Git repo via the 'cd' command. The following command will build the Docker image with the required packages.
 
 NOTE: Make sure that you are "inside" the repository folder, ie., the folder should contain the Dockerfile.
 
