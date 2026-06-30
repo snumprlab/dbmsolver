@@ -13,7 +13,7 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
 
 ## Instructions: Sampling with DBMSolver
 
-This repo provides instructions to run the inference code for our training-free sampler, DBMSolver, on the [DIODE](https://diode-dataset.org/) (256x256) dataset.
+This repo provides instructions on running the inference code for our training-free sampler, DBMSolver, on the [DIODE](https://diode-dataset.org/) (256x256) dataset.
 
 The code is based on [DDBM](https://arxiv.org/abs/2309.16948) and [DBIM](https://arxiv.org/abs/2405.15885v6), the current state-of-the-art training-free samplers for Diffusion Bridge Models (DBMs).
 
