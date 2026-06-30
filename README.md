@@ -85,7 +85,7 @@ bash scripts/sample.sh $DATASET_NAME $NFE $SAMPLER ($AUX)
   - `heun` is the vanilla sampler of DDBM, which simulates the SDE/ODE step alternatively. In this case, `$AUX` is not required.
   - `dbim` is DBIM's proposed 1st-order sampler. When using `dbim`, `$AUX` corresponds to $\eta$ which controls the stochasticity level (floating-point value in $[0,1]$). 
   - `dbim_high_order` is DBIM's proposed higher-order (2nd and 3rd) samplers. In this case, `$AUX` corresponds to the order (2 or 3).
-  - `dbmsolver` is our proposed 2nd-order sampler. In this case, `$AUX` corresponds to the order of the Bridge SDE solution. In our paper, we recommend using `$AUX` = 1, as `$AUX` = 2 requires one extra NFE but only provides negligible gains (ie, higher computational cost with little gain).
+  - `dbmsolver` is our proposed SOTA 2nd-order sampler. In this case, `$AUX` corresponds to the order of the Bridge SDE solution. In our paper, we empirically show that using `$AUX` = 1 is enough, as `$AUX` = 2 requires one extra NFE but only provides negligible gains (ie, higher computational cost with little gain).
   - `ground_truth` just returns the ground truth images. This can be used for generating reference statistics (explained below). In this case, `$AUX` is not required.
 
 The samples will be saved to `workdir/`.
